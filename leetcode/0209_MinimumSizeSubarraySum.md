@@ -138,7 +138,7 @@ def minSubArrayLen(self, s: int, nums: List[int]) -> int:
 
 - Time: O(N)
 - Space: O(1)
-- Credit: lee215 ([Link](https://leetcode.com/problems/minimum-size-subarray-sum/discuss/433123/JavaC%2B%2BPython-Sliding-Window))
+- Credit: lee215 ([Link](https://leetcode.com/problems/minimum-size-subarray-sum/discuss/433123/))
 
 ```python
 def minSubArrayLen(self, s: int, nums: List[int]) -> int:
