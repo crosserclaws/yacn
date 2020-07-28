@@ -22,6 +22,10 @@ Goal
 - Find the `minimal` length of a `contiguous subarray` of which the sum ≥ s.
   - If there isn't one, return 0 instead.
 
+## Follow up
+
+If you have figured out the O(n) solution, try coding another solution of which the time complexity is O(n log n).
+
 ## Reflection
 
 The term, `minimal length of a contiguous subarray`, implies it may be related to the sliding window/two pointers.
@@ -152,7 +156,3 @@ def minSubArrayLen(self, s: int, nums: List[int]) -> int:
             l += 1
     return result % (len(nums)+1)
 ```
-
-## Follow up
-
-If you have figured out the O(n) solution, try coding another solution of which the time complexity is O(n log n).
