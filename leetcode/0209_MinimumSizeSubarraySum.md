@@ -67,7 +67,7 @@ The term, `minimal length of a contiguous subarray`, implies it may be related t
 - Space: O(1)
 - Note: TLE(Time Limit Exceeded)
 
-```python
+```yml
 def minSubArrayLen(self, s: int, nums: List[int]) -> int:
     result = len(nums)+1
     for i, n in enumerate(nums):
