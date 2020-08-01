@@ -85,7 +85,7 @@ def minSubArrayLen(self, s: int, nums: List[int]) -> int:
 - Time: O(N log N)
 - Space: O(N)
 
-Style 1
+#### Style 1
 
 ```python
 def minSubArrayLen(self, s: int, nums: List[int]) -> int:
@@ -108,7 +108,7 @@ def minSubArrayLen(self, s: int, nums: List[int]) -> int:
     return result % boundary
 ```
 
-Style 2
+#### Style 2
 
 ```python
 def minSubArrayLen(self, s: int, nums: List[int]) -> int:
