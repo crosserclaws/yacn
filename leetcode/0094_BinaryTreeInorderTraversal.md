@@ -67,8 +67,6 @@ class Solution:
 
 - Time: O(N)
 - Space: O(N)
-- Resource
-  - Threaded binary tree ([Wiki](https://en.wikipedia.org/wiki/Threaded_binary_tree))
 
 #### Style 1
 
@@ -109,6 +107,8 @@ class Solution:
 
 - Time: O(N)
 - Space: O(N)
+- Resource
+  - Threaded binary tree ([Wiki](https://en.wikipedia.org/wiki/Threaded_binary_tree))
 
 ```python
 class Solution:
