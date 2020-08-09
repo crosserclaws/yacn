@@ -1,5 +1,5 @@
 ---
-tags: ["depth first search", "dfs", "leetcode", "tree"]
+tags: ["depth-first search", "leetcode", "tree"]
 ---
 
 # 98. Validate Binary Search Tree
