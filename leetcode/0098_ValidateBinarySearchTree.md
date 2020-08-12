@@ -86,7 +86,7 @@ class Solution:
         return True
 ```
 
-### Inorder traversal
+### In-order traversal
 
 - Time: O(N)
 - Space: O(N)
